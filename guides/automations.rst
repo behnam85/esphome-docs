@@ -338,6 +338,7 @@ All Triggers
 - :doc:`remote_receiver.on_* </components/remote_receiver>`
 - :doc:`sun.on_sunrise </components/sun>` / :doc:`sun.on_sunset </components/sun>`
 - :ref:`sim800l.on_sms_received <sim800l-on_sms_received>`
+- :ref:`sim800l.on_incoming_call <sim800l-on_incoming_call>`
 - :ref:`rf_bridge.on_code_received <rf_bridge-on_code_received>`
 - :ref:`ota.on_begin <ota-on_begin>` / :ref:`ota.on_progress <ota-on_progress>` /
   :ref:`ota.on_end <ota-on_end>` / :ref:`ota.on_error <ota-on_error>` /
